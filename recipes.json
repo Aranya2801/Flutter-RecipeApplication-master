@@ -1,0 +1,634 @@
+{
+  "recipes": [
+    {
+      "id": "r001",
+      "title": "Truffle Mushroom Risotto",
+      "category": "Italian",
+      "cuisine": "Italian",
+      "tags": ["vegetarian", "gourmet", "comfort-food", "date-night"],
+      "difficulty": "intermediate",
+      "prep_time_min": 15,
+      "cook_time_min": 35,
+      "servings": 4,
+      "calories_per_serving": 520,
+      "rating": 4.8,
+      "rating_count": 1247,
+      "is_featured": true,
+      "is_trending": true,
+      "description": "A luxurious, creamy Arborio rice dish infused with black truffle oil, wild mushrooms, and aged Parmigiano-Reggiano. Restaurant-quality comfort food made at home.",
+      "image_url": "https://images.unsplash.com/photo-1476124369491-e7addf5db371?w=800",
+      "video_url": "",
+      "author": "Chef Marco Bellini",
+      "author_avatar": "https://randomuser.me/api/portraits/men/32.jpg",
+      "nutrition": {
+        "calories": 520,
+        "protein_g": 18,
+        "carbs_g": 68,
+        "fat_g": 20,
+        "fiber_g": 4,
+        "sugar_g": 3,
+        "sodium_mg": 720,
+        "cholesterol_mg": 45,
+        "vitamin_a_percent": 12,
+        "vitamin_c_percent": 6,
+        "calcium_percent": 28,
+        "iron_percent": 22
+      },
+      "ingredients": [
+        {"id": "i1", "name": "Arborio rice", "amount": 400, "unit": "g", "notes": "Do not rinse"},
+        {"id": "i2", "name": "Wild mushroom mix (porcini, shiitake, oyster)", "amount": 300, "unit": "g", "notes": "Roughly chopped"},
+        {"id": "i3", "name": "Dry white wine", "amount": 200, "unit": "ml", "notes": "Pinot Grigio preferred"},
+        {"id": "i4", "name": "Vegetable stock", "amount": 1500, "unit": "ml", "notes": "Keep warm"},
+        {"id": "i5", "name": "Shallots", "amount": 3, "unit": "medium", "notes": "Finely diced"},
+        {"id": "i6", "name": "Garlic cloves", "amount": 4, "unit": "cloves", "notes": "Minced"},
+        {"id": "i7", "name": "Unsalted butter", "amount": 80, "unit": "g", "notes": "Cold, cubed"},
+        {"id": "i8", "name": "Parmigiano-Reggiano", "amount": 120, "unit": "g", "notes": "Freshly grated"},
+        {"id": "i9", "name": "Black truffle oil", "amount": 2, "unit": "tbsp", "notes": "High quality"},
+        {"id": "i10", "name": "Fresh thyme", "amount": 4, "unit": "sprigs"},
+        {"id": "i11", "name": "Extra virgin olive oil", "amount": 3, "unit": "tbsp"},
+        {"id": "i12", "name": "Sea salt & black pepper", "amount": 1, "unit": "to taste"}
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Prepare your mise en place",
+          "description": "Warm vegetable stock in a saucepan over low heat. Keep it at a gentle simmer. Finely dice shallots, mince garlic, and roughly chop mushrooms. Having everything ready before you start is crucial for perfect risotto.",
+          "timer_seconds": null,
+          "tip": "Cold stock will drop the temperature of the rice and slow cooking unevenly."
+        },
+        {
+          "step_number": 2,
+          "title": "Sauté the mushrooms",
+          "description": "Heat 1 tbsp olive oil and 20g butter in a large, wide-bottom pan over high heat. Add mushrooms in a single layer — don't crowd them. Sauté for 4-5 minutes without stirring until golden brown. Season with salt, add thyme, and set aside.",
+          "timer_seconds": 300,
+          "tip": "High heat creates Maillard reaction — that golden crust gives deep umami flavor."
+        },
+        {
+          "step_number": 3,
+          "title": "Build the soffritto base",
+          "description": "In the same pan over medium heat, add remaining olive oil. Sauté shallots for 3 minutes until translucent and soft. Add garlic and cook 1 more minute. Do not brown.",
+          "timer_seconds": 240,
+          "tip": "Low and slow for the soffritto — it's the flavor foundation."
+        },
+        {
+          "step_number": 4,
+          "title": "Toast the Arborio rice",
+          "description": "Add dry Arborio rice to the pan. Stir constantly for 2-3 minutes over medium-high heat until the edges of each grain become translucent and you hear a light crackling sound. This toasting step is non-negotiable.",
+          "timer_seconds": 180,
+          "tip": "Toasting activates the starch on the rice surface, which releases slowly during cooking for creaminess."
+        },
+        {
+          "step_number": 5,
+          "title": "Deglaze with wine",
+          "description": "Pour in the white wine all at once and stir vigorously. The pan will sizzle dramatically. Keep stirring until the wine is completely absorbed — about 2 minutes. You'll smell the alcohol evaporate.",
+          "timer_seconds": 120,
+          "tip": "The acidity in wine balances the richness of the final dish."
+        },
+        {
+          "step_number": 6,
+          "title": "Add stock gradually",
+          "description": "Add warm stock one ladle at a time (about 120ml), stirring constantly. Only add the next ladle once the previous one is fully absorbed. Maintain a gentle simmer throughout. This process takes 18-22 minutes. The risotto is ready when rice is al dente — tender but with a slight bite.",
+          "timer_seconds": 1200,
+          "tip": "Constant stirring releases starch for creaminess. Never stop stirring."
+        },
+        {
+          "step_number": 7,
+          "title": "Mantecatura — the finishing technique",
+          "description": "Remove pan from heat. Add cold cubed butter and Parmigiano-Reggiano. Using a wooden spoon, beat vigorously in a folding motion for 2 minutes until creamy and glossy. This Italian technique called mantecatura is what makes risotto restaurant-quality.",
+          "timer_seconds": 120,
+          "tip": "Cold butter emulsifies best. Work quickly off the heat."
+        },
+        {
+          "step_number": 8,
+          "title": "Finish and plate",
+          "description": "Fold in the sautéed mushrooms. Drizzle truffle oil and stir gently. Taste and adjust seasoning. Plate immediately — risotto waits for no one. Finish with extra Parmigiano and a final drizzle of truffle oil.",
+          "timer_seconds": null,
+          "tip": "Risotto should flow like lava — not stiff, not soupy. That perfect texture is called 'all'onda' (like a wave)."
+        }
+      ],
+      "similar_recipes": ["r003", "r007", "r012"],
+      "wine_pairing": "Pinot Grigio or Barolo",
+      "storage": "Best eaten immediately. Can refrigerate for 2 days — reheat with a splash of stock.",
+      "created_at": "2024-01-15T10:00:00Z",
+      "updated_at": "2024-03-20T14:30:00Z"
+    },
+    {
+      "id": "r002",
+      "title": "Japanese Ramen from Scratch",
+      "category": "Japanese",
+      "cuisine": "Japanese",
+      "tags": ["comfort-food", "weekend-project", "noodles", "pork"],
+      "difficulty": "advanced",
+      "prep_time_min": 60,
+      "cook_time_min": 480,
+      "servings": 6,
+      "calories_per_serving": 680,
+      "rating": 4.9,
+      "rating_count": 2156,
+      "is_featured": true,
+      "is_trending": true,
+      "description": "Authentic tonkotsu-shoyu ramen with a 8-hour pork bone broth, perfectly soft-boiled marinated eggs (ajitsuke tamago), chashu pork belly, and house-made tare.",
+      "image_url": "https://images.unsplash.com/photo-1569050467447-ce54b3bbc37d?w=800",
+      "author": "Chef Yuki Tanaka",
+      "author_avatar": "https://randomuser.me/api/portraits/women/28.jpg",
+      "nutrition": {
+        "calories": 680,
+        "protein_g": 48,
+        "carbs_g": 72,
+        "fat_g": 22,
+        "fiber_g": 5,
+        "sugar_g": 8,
+        "sodium_mg": 1850,
+        "cholesterol_mg": 185
+      },
+      "ingredients": [
+        {"id": "i1", "name": "Pork trotters", "amount": 1, "unit": "kg"},
+        {"id": "i2", "name": "Pork neck bones", "amount": 1, "unit": "kg"},
+        {"id": "i3", "name": "Pork belly", "amount": 800, "unit": "g", "notes": "For chashu"},
+        {"id": "i4", "name": "Fresh ramen noodles", "amount": 600, "unit": "g"},
+        {"id": "i5", "name": "Soy sauce", "amount": 200, "unit": "ml", "notes": "Shoyu tare"},
+        {"id": "i6", "name": "Mirin", "amount": 100, "unit": "ml"},
+        {"id": "i7", "name": "Sake", "amount": 150, "unit": "ml"},
+        {"id": "i8", "name": "Large eggs", "amount": 6, "unit": "eggs"},
+        {"id": "i9", "name": "Nori sheets", "amount": 6, "unit": "sheets"},
+        {"id": "i10", "name": "Green onions", "amount": 4, "unit": "stalks"},
+        {"id": "i11", "name": "Bamboo shoots (menma)", "amount": 200, "unit": "g"},
+        {"id": "i12", "name": "Sesame seeds", "amount": 2, "unit": "tbsp"},
+        {"id": "i13", "name": "Toasted sesame oil", "amount": 1, "unit": "tbsp"},
+        {"id": "i14", "name": "Ginger", "amount": 50, "unit": "g"},
+        {"id": "i15", "name": "Garlic", "amount": 1, "unit": "head"}
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Blanch the bones",
+          "description": "Place pork bones and trotters in a large pot, cover with cold water, bring to a boil. Boil vigorously for 10 minutes — you'll see grey impurities rise. Drain, rinse bones thoroughly under cold water, scrubbing off any dark bits. Clean the pot.",
+          "timer_seconds": 600,
+          "tip": "Blanching removes blood and impurities that would make your broth cloudy and bitter."
+        },
+        {
+          "step_number": 2,
+          "title": "Build the tonkotsu broth",
+          "description": "Return cleaned bones to pot. Cover with cold water (4-5 liters). Bring to a ROLLING boil — this is crucial. The vigorous boiling emulsifies the collagen and fat from the bones, creating the milky-white tonkotsu color. Add ginger and garlic head halved crosswise. Boil hard for 4 hours, adding water to maintain level.",
+          "timer_seconds": 14400,
+          "tip": "A slow simmer makes clear broth. A hard boil makes milky tonkotsu. You want milky."
+        },
+        {
+          "step_number": 3,
+          "title": "Make chashu pork belly",
+          "description": "Roll pork belly tightly into a log, tie with kitchen twine every 2cm. Sear in a hot oiled pan on all sides until deep golden brown (8-10 min). Transfer to a pot. Add soy sauce, mirin, sake, and enough water to cover halfway. Cover with parchment and braise at low simmer for 2.5 hours until chopstick-tender.",
+          "timer_seconds": 9000,
+          "tip": "The braising liquid becomes your shoyu tare — save every drop."
+        },
+        {
+          "step_number": 4,
+          "title": "Marinate the eggs (Ajitsuke Tamago)",
+          "description": "Bring water to boil. Lower eggs in gently, cook exactly 6.5 minutes for jammy yolks. Immediately transfer to ice water for 5 minutes. Peel carefully. Marinate in a ziplock bag with 3:1:1 ratio of soy sauce, mirin, and water for minimum 4 hours (overnight is magical).",
+          "timer_seconds": 390,
+          "tip": "6.5 minutes is the sweet spot for perfectly jammy, golden-orange yolks."
+        },
+        {
+          "step_number": 5,
+          "title": "Make the shoyu tare",
+          "description": "Reduce the chashu braising liquid over medium heat until syrupy and reduced by half. This concentrated umami bomb is your tare — add 2-3 tbsp per bowl to season.",
+          "timer_seconds": 1200,
+          "tip": "Tare is the secret weapon. It seasons each bowl individually."
+        },
+        {
+          "step_number": 6,
+          "title": "Assemble your ramen bowl",
+          "description": "Cook fresh noodles per package (usually 2 min in boiling water). In each pre-warmed bowl, add 2-3 tbsp tare. Ladle 350ml hot broth and stir to combine. Add noodles. Top with 2-3 slices chashu, halved marinated egg, bamboo shoots, nori, green onions, and sesame seeds. Drizzle sesame oil.",
+          "timer_seconds": null,
+          "tip": "Warm your bowls with hot water before assembly — cold bowls cool the broth instantly."
+        }
+      ],
+      "created_at": "2024-02-10T08:00:00Z"
+    },
+    {
+      "id": "r003",
+      "title": "Mediterranean Mezze Platter",
+      "category": "Mediterranean",
+      "cuisine": "Middle Eastern",
+      "tags": ["vegetarian", "sharing", "healthy", "party"],
+      "difficulty": "beginner",
+      "prep_time_min": 45,
+      "cook_time_min": 20,
+      "servings": 8,
+      "calories_per_serving": 320,
+      "rating": 4.7,
+      "rating_count": 893,
+      "is_featured": false,
+      "is_trending": true,
+      "description": "A vibrant spread featuring silky hummus, smoky baba ganoush, crispy falafel, tabbouleh, and warm pita. Perfect for entertaining.",
+      "image_url": "https://images.unsplash.com/photo-1544025162-d76538a2a5f5?w=800",
+      "author": "Chef Layla Hassan",
+      "author_avatar": "https://randomuser.me/api/portraits/women/45.jpg",
+      "nutrition": {
+        "calories": 320,
+        "protein_g": 12,
+        "carbs_g": 42,
+        "fat_g": 14,
+        "fiber_g": 9
+      },
+      "ingredients": [
+        {"id": "i1", "name": "Chickpeas", "amount": 400, "unit": "g", "notes": "Canned, drained"},
+        {"id": "i2", "name": "Tahini", "amount": 80, "unit": "g"},
+        {"id": "i3", "name": "Large eggplants", "amount": 2, "unit": "medium"},
+        {"id": "i4", "name": "Fresh parsley", "amount": 2, "unit": "bunches"},
+        {"id": "i5", "name": "Bulgur wheat", "amount": 100, "unit": "g"},
+        {"id": "i6", "name": "Lemons", "amount": 4, "unit": "lemons"},
+        {"id": "i7", "name": "Garlic cloves", "amount": 6, "unit": "cloves"},
+        {"id": "i8", "name": "Extra virgin olive oil", "amount": 120, "unit": "ml"},
+        {"id": "i9", "name": "Ground cumin", "amount": 2, "unit": "tsp"},
+        {"id": "i10", "name": "Smoked paprika", "amount": 1, "unit": "tsp"},
+        {"id": "i11", "name": "Pita breads", "amount": 8, "unit": "pieces"},
+        {"id": "i12", "name": "Cherry tomatoes", "amount": 200, "unit": "g"},
+        {"id": "i13", "name": "Cucumber", "amount": 1, "unit": "large"}
+      ],
+      "steps": [
+        {"step_number": 1, "title": "Char the eggplant", "description": "Place whole eggplants directly over gas flame or under broiler, turning occasionally, until completely charred on outside and collapsed inside (15-20 min). The char creates the smoky flavor of baba ganoush.", "timer_seconds": 1200},
+        {"step_number": 2, "title": "Make silky hummus", "description": "Blend chickpeas with ice-cold water and tahini for 3 minutes BEFORE adding lemon and garlic — this aerates the tahini and creates silkiness. Then add lemon juice, garlic, cumin, and salt. Blend 3 more minutes. The secret to restaurant-quality hummus is blending much longer than you think.", "timer_seconds": 360},
+        {"step_number": 3, "title": "Prepare baba ganoush", "description": "Scoop charred eggplant flesh, discarding skin. Drain in a colander 10 minutes to remove bitterness. Mix with tahini, lemon, garlic, and salt. Rough texture is traditional — don't over-blend.", "timer_seconds": null},
+        {"step_number": 4, "title": "Make tabbouleh", "description": "Soak bulgur in hot water for 20 minutes, drain and squeeze dry. Finely chop parsley (it should be mostly herb, not grain). Combine with bulgur, diced tomatoes, cucumber, mint, lemon juice, and olive oil.", "timer_seconds": 1200},
+        {"step_number": 5, "title": "Assemble the platter", "description": "Swirl hummus in a bowl, drizzle with olive oil, dust with paprika. Plate baba ganoush with same treatment. Arrange tabbouleh. Add olives, roasted peppers, and warm pita. Create a visually stunning arrangement.", "timer_seconds": null}
+      ],
+      "created_at": "2024-01-20T12:00:00Z"
+    },
+    {
+      "id": "r004",
+      "title": "Thai Green Curry with Jasmine Rice",
+      "category": "Thai",
+      "cuisine": "Thai",
+      "tags": ["spicy", "gluten-free", "dinner", "meal-prep"],
+      "difficulty": "intermediate",
+      "prep_time_min": 20,
+      "cook_time_min": 30,
+      "servings": 4,
+      "calories_per_serving": 580,
+      "rating": 4.8,
+      "rating_count": 1543,
+      "is_featured": true,
+      "is_trending": false,
+      "description": "Aromatic, herbaceous green curry with coconut milk, Thai basil, kaffir lime leaves, and your choice of protein. Authentic flavors, weeknight-friendly method.",
+      "image_url": "https://images.unsplash.com/photo-1455619452474-d2be8b1e70cd?w=800",
+      "author": "Chef Somchai Prida",
+      "nutrition": {
+        "calories": 580,
+        "protein_g": 38,
+        "carbs_g": 52,
+        "fat_g": 26,
+        "fiber_g": 6
+      },
+      "ingredients": [
+        {"id": "i1", "name": "Green curry paste", "amount": 4, "unit": "tbsp", "notes": "Maesri brand preferred"},
+        {"id": "i2", "name": "Coconut cream", "amount": 400, "unit": "ml", "notes": "Full fat"},
+        {"id": "i3", "name": "Coconut milk", "amount": 400, "unit": "ml"},
+        {"id": "i4", "name": "Chicken thighs", "amount": 600, "unit": "g", "notes": "Boneless, sliced"},
+        {"id": "i5", "name": "Thai eggplant", "amount": 300, "unit": "g"},
+        {"id": "i6", "name": "Kaffir lime leaves", "amount": 8, "unit": "leaves"},
+        {"id": "i7", "name": "Thai basil", "amount": 1, "unit": "large bunch"},
+        {"id": "i8", "name": "Fish sauce", "amount": 3, "unit": "tbsp"},
+        {"id": "i9", "name": "Palm sugar", "amount": 2, "unit": "tbsp"},
+        {"id": "i10", "name": "Lemongrass", "amount": 2, "unit": "stalks"},
+        {"id": "i11", "name": "Jasmine rice", "amount": 300, "unit": "g"}
+      ],
+      "steps": [
+        {"step_number": 1, "title": "Crack the coconut cream", "description": "Heat coconut CREAM alone in a wok over medium-high heat, stirring, until it 'cracks' — splits into clear oil and white solids (5-8 min). This is called 'cracking' and intensifies flavor dramatically.", "timer_seconds": 480},
+        {"step_number": 2, "title": "Fry the curry paste", "description": "Add green curry paste to the cracked coconut cream. Fry for 3-4 minutes until paste darkens and becomes very fragrant. The oil in cracked coconut cream fries the paste properly — this is the technique.", "timer_seconds": 240},
+        {"step_number": 3, "title": "Add protein and simmer", "description": "Add chicken, toss to coat in curry paste. Add coconut milk, kaffir lime leaves, and bruised lemongrass. Simmer 15 minutes. Add eggplant in last 5 minutes.", "timer_seconds": 900},
+        {"step_number": 4, "title": "Season and finish", "description": "Season with fish sauce (for salt/umami) and palm sugar (for sweetness). Balance is everything in Thai cooking. Add generous Thai basil right before serving.", "timer_seconds": null}
+      ],
+      "created_at": "2024-02-05T09:00:00Z"
+    },
+    {
+      "id": "r005",
+      "title": "Soufflé au Chocolat",
+      "category": "Desserts",
+      "cuisine": "French",
+      "tags": ["dessert", "chocolate", "dinner-party", "advanced"],
+      "difficulty": "advanced",
+      "prep_time_min": 25,
+      "cook_time_min": 15,
+      "servings": 6,
+      "calories_per_serving": 380,
+      "rating": 4.9,
+      "rating_count": 672,
+      "is_featured": true,
+      "is_trending": false,
+      "description": "The holy grail of French pastry — a perfectly risen chocolate soufflé with a crispy exterior, molten center, and velvet interior. Master this and impress anyone.",
+      "image_url": "https://images.unsplash.com/photo-1571115177098-24ec42ed204d?w=800",
+      "author": "Chef Pierre Dupont",
+      "nutrition": {
+        "calories": 380,
+        "protein_g": 10,
+        "carbs_g": 38,
+        "fat_g": 22,
+        "fiber_g": 4
+      },
+      "ingredients": [
+        {"id": "i1", "name": "Dark chocolate (70%+)", "amount": 200, "unit": "g"},
+        {"id": "i2", "name": "Unsalted butter", "amount": 50, "unit": "g", "notes": "Plus extra for ramekins"},
+        {"id": "i3", "name": "Large eggs", "amount": 6, "unit": "eggs", "notes": "Separated, room temperature"},
+        {"id": "i4", "name": "Caster sugar", "amount": 100, "unit": "g"},
+        {"id": "i5", "name": "Plain flour", "amount": 30, "unit": "g"},
+        {"id": "i6", "name": "Whole milk", "amount": 200, "unit": "ml"},
+        {"id": "i7", "name": "Cocoa powder", "amount": 2, "unit": "tbsp", "notes": "For dusting ramekins"},
+        {"id": "i8", "name": "Cream of tartar", "amount": 0.25, "unit": "tsp"},
+        {"id": "i9", "name": "Fine sea salt", "amount": 1, "unit": "pinch"},
+        {"id": "i10", "name": "Vanilla extract", "amount": 1, "unit": "tsp"}
+      ],
+      "steps": [
+        {"step_number": 1, "title": "Prepare the ramekins perfectly", "description": "Butter 6 ramekins thoroughly with cold butter using upward strokes only — this guides the soufflé rise. Dust with cocoa powder, tapping out excess. Refrigerate.", "timer_seconds": null, "tip": "Upward butter strokes are not a myth — they truly help the soufflé climb."},
+        {"step_number": 2, "title": "Make the chocolate base", "description": "Melt chocolate and butter together. Make a roux: melt butter, add flour, cook 1 min. Gradually whisk in warm milk to make béchamel. Remove from heat, add chocolate mixture, egg yolks, vanilla, and salt.", "timer_seconds": null},
+        {"step_number": 3, "title": "Whip the whites to stiff peaks", "description": "Beat egg whites with cream of tartar to soft peaks. Gradually rain in sugar while beating to stiff, glossy peaks. The whites should hold a sharp peak and not slide when bowl is tilted.", "timer_seconds": null, "tip": "Any trace of fat destroys egg white foam. Perfectly clean bowl and whisk are essential."},
+        {"step_number": 4, "title": "Fold — the critical technique", "description": "Stir 1/4 of whites into chocolate base vigorously to lighten it. Then gently fold remaining whites in three additions using a rubber spatula in a J-motion, rotating bowl. Stop when just combined — streaks are okay. Over-folding deflates air.", "timer_seconds": null},
+        {"step_number": 5, "title": "Fill and bake immediately", "description": "Fill ramekins to 1cm below rim. Run thumb around inside edge to create a slight groove — this helps even rising. Bake in 190°C (375°F) oven for exactly 11-13 minutes. Serve IMMEDIATELY to the table.", "timer_seconds": 720, "tip": "Never open the oven while baking. Even a draft can cause collapse."}
+      ],
+      "created_at": "2024-03-01T15:00:00Z"
+    },
+    {
+      "id": "r006",
+      "title": "Korean Bibimbap",
+      "category": "Korean",
+      "cuisine": "Korean",
+      "tags": ["healthy", "meal-prep", "colorful", "gluten-free"],
+      "difficulty": "intermediate",
+      "prep_time_min": 40,
+      "cook_time_min": 25,
+      "servings": 4,
+      "calories_per_serving": 510,
+      "rating": 4.7,
+      "rating_count": 1098,
+      "is_featured": false,
+      "is_trending": true,
+      "description": "A glorious Korean rice bowl with seasoned vegetables (namul), marinated beef, crispy fried egg, and fiery gochujang sauce. Mix everything together for umami fireworks.",
+      "image_url": "https://images.unsplash.com/photo-1553163147-622ab57be1c7?w=800",
+      "author": "Chef Ji-Young Kim",
+      "nutrition": {
+        "calories": 510,
+        "protein_g": 28,
+        "carbs_g": 68,
+        "fat_g": 15,
+        "fiber_g": 8
+      },
+      "ingredients": [
+        {"id": "i1", "name": "Short grain rice", "amount": 400, "unit": "g"},
+        {"id": "i2", "name": "Beef sirloin", "amount": 300, "unit": "g", "notes": "Thinly sliced"},
+        {"id": "i3", "name": "Gochujang paste", "amount": 4, "unit": "tbsp"},
+        {"id": "i4", "name": "Sesame oil", "amount": 3, "unit": "tbsp"},
+        {"id": "i5", "name": "Soy sauce", "amount": 4, "unit": "tbsp"},
+        {"id": "i6", "name": "Spinach", "amount": 300, "unit": "g"},
+        {"id": "i7", "name": "Bean sprouts", "amount": 200, "unit": "g"},
+        {"id": "i8", "name": "Carrots", "amount": 2, "unit": "medium"},
+        {"id": "i9", "name": "Zucchini", "amount": 1, "unit": "large"},
+        {"id": "i10", "name": "Shiitake mushrooms", "amount": 150, "unit": "g"},
+        {"id": "i11", "name": "Eggs", "amount": 4, "unit": "eggs"},
+        {"id": "i12", "name": "Garlic", "amount": 4, "unit": "cloves"},
+        {"id": "i13", "name": "Sugar", "amount": 2, "unit": "tbsp"},
+        {"id": "i14", "name": "Sesame seeds", "amount": 2, "unit": "tbsp"}
+      ],
+      "steps": [
+        {"step_number": 1, "title": "Marinate the beef", "description": "Mix beef with soy sauce, sesame oil, sugar, and garlic. Marinate 30 minutes. Korean beef should be sliced paper-thin — freeze for 20 minutes for easier slicing.", "timer_seconds": 1800},
+        {"step_number": 2, "title": "Prepare namul (seasoned vegetables)", "description": "Blanch spinach 30 seconds, squeeze dry, season with sesame oil, soy sauce, garlic. Blanch bean sprouts 2 minutes, season same way. Julienne and sauté carrots and zucchini separately with same seasoning. Sauté mushrooms with soy and sesame oil.", "timer_seconds": 600},
+        {"step_number": 3, "title": "Cook the beef", "description": "Cook marinated beef in a hot pan for 2-3 minutes. High heat, fast cook for tender result.", "timer_seconds": 180},
+        {"step_number": 4, "title": "Make gochujang sauce", "description": "Mix gochujang, sesame oil, sugar, vinegar, and water to a drizzleable consistency. Taste — it should be spicy, sweet, savory, and slightly tangy.", "timer_seconds": null},
+        {"step_number": 5, "title": "Dolsot technique (optional)", "description": "Heat a stone pot (dolsot) until extremely hot, add sesame oil, then rice. The rice sizzles and forms a crispy bottom crust (nurungji) — the best part.", "timer_seconds": 300},
+        {"step_number": 6, "title": "Assemble and mix", "description": "Place rice in bowl. Arrange each vegetable in a colorful spoke pattern around center. Add beef and a sunny-side up egg in center. Drizzle gochujang sauce. At the table, mix everything vigorously until combined.", "timer_seconds": null}
+      ],
+      "created_at": "2024-02-20T11:00:00Z"
+    },
+    {
+      "id": "r007",
+      "title": "Classic French Croissants",
+      "category": "Baking",
+      "cuisine": "French",
+      "tags": ["baking", "breakfast", "weekend-project", "butter"],
+      "difficulty": "advanced",
+      "prep_time_min": 120,
+      "cook_time_min": 20,
+      "servings": 12,
+      "calories_per_serving": 340,
+      "rating": 4.9,
+      "rating_count": 1876,
+      "is_featured": true,
+      "is_trending": true,
+      "description": "The pinnacle of baking craft — shatteringly crispy, honeycomb-layered, buttery French croissants. A 2-day process that rewards patience with the most glorious breakfast.",
+      "image_url": "https://images.unsplash.com/photo-1555507036-ab1f4038808a?w=800",
+      "author": "Chef Sophie Martin",
+      "nutrition": {
+        "calories": 340,
+        "protein_g": 6,
+        "carbs_g": 38,
+        "fat_g": 19,
+        "fiber_g": 1
+      },
+      "ingredients": [
+        {"id": "i1", "name": "Strong bread flour", "amount": 500, "unit": "g"},
+        {"id": "i2", "name": "Cold whole milk", "amount": 300, "unit": "ml"},
+        {"id": "i3", "name": "Instant yeast", "amount": 7, "unit": "g"},
+        {"id": "i4", "name": "Fine sugar", "amount": 50, "unit": "g"},
+        {"id": "i5", "name": "Fine salt", "amount": 10, "unit": "g"},
+        {"id": "i6", "name": "Unsalted butter (for dough)", "amount": 30, "unit": "g", "notes": "Room temp"},
+        {"id": "i7", "name": "European butter (82%+ fat)", "amount": 280, "unit": "g", "notes": "For lamination - COLD"},
+        {"id": "i8", "name": "Egg yolk", "amount": 2, "unit": "yolks", "notes": "For egg wash"},
+        {"id": "i9", "name": "Whole milk", "amount": 1, "unit": "tbsp", "notes": "For egg wash"}
+      ],
+      "steps": [
+        {"step_number": 1, "title": "Make the détrempe (dough)", "description": "Combine flour, sugar, salt. Add milk and yeast — don't let salt touch yeast directly. Add softened butter. Knead 3-4 minutes only — just until combined. Do not over-develop gluten. Shape into rectangle, wrap in plastic, refrigerate overnight.", "timer_seconds": null, "tip": "Under-kneading is intentional. Too much gluten will fight the lamination."},
+        {"step_number": 2, "title": "Prepare the butter block", "description": "Pound cold butter between two sheets of parchment into a 20x20cm square of even thickness. Refrigerate until same firmness as dough — it should bend without cracking or squishing.", "timer_seconds": null, "tip": "Butter and dough must be the same temperature and pliability. This is the key to successful lamination."},
+        {"step_number": 3, "title": "Enclose the butter (first lamination)", "description": "Roll dough into a 40x20cm rectangle. Place butter in center, fold dough over like an envelope enclosing butter completely. Pinch edges sealed. Roll gently into 60x20cm. Give a letter fold (3 layers). Wrap, refrigerate 30 minutes.", "timer_seconds": 1800},
+        {"step_number": 4, "title": "Give 2 more turns", "description": "Repeat rolling and letter-fold twice more, refrigerating 30 minutes between each turn. You now have 27 butter layers. Mark the dough with finger indents to track turns (1 indent = 1 turn).", "timer_seconds": 3600},
+        {"step_number": 5, "title": "Shape the croissants", "description": "Roll laminated dough to 4mm thick. Cut long triangles (base 8cm, length 20cm). Make a small nick at base. Gently stretch. Roll from base to tip in 7-8 tight turns. Place on lined tray, bend into crescent. Proof 2-3 hours until jiggly and doubled.", "timer_seconds": 9000, "tip": "Properly proofed croissants should wobble when you shake the tray."},
+        {"step_number": 6, "title": "Egg wash and bake", "description": "Brush GENTLY with egg wash (don't let it drip on cut sides — it glues layers shut). Bake 190°C (375°F) for 18-22 minutes until deep amber. The honeycomb interior is worth every moment.", "timer_seconds": 1200}
+      ],
+      "created_at": "2024-03-10T07:00:00Z"
+    },
+    {
+      "id": "r008",
+      "title": "Acai Smoothie Bowl",
+      "category": "Breakfast",
+      "cuisine": "Brazilian",
+      "tags": ["vegan", "healthy", "breakfast", "quick", "antioxidants"],
+      "difficulty": "beginner",
+      "prep_time_min": 10,
+      "cook_time_min": 0,
+      "servings": 2,
+      "calories_per_serving": 380,
+      "rating": 4.6,
+      "rating_count": 743,
+      "is_featured": false,
+      "is_trending": true,
+      "description": "Thick, frosty acai base crowned with granola, tropical fruits, and honey. Nutritional powerhouse disguised as the most beautiful breakfast.",
+      "image_url": "https://images.unsplash.com/photo-1590301157890-4810ed352733?w=800",
+      "author": "Chef Gabriela Santos",
+      "nutrition": {
+        "calories": 380,
+        "protein_g": 8,
+        "carbs_g": 62,
+        "fat_g": 14,
+        "fiber_g": 12
+      },
+      "ingredients": [
+        {"id": "i1", "name": "Frozen acai packets (unsweetened)", "amount": 2, "unit": "packets (100g each)"},
+        {"id": "i2", "name": "Frozen banana", "amount": 1, "unit": "large"},
+        {"id": "i3", "name": "Coconut milk", "amount": 80, "unit": "ml", "notes": "Use minimal for thick texture"},
+        {"id": "i4", "name": "Granola", "amount": 60, "unit": "g"},
+        {"id": "i5", "name": "Fresh mango", "amount": 1, "unit": "small"},
+        {"id": "i6", "name": "Fresh kiwi", "amount": 2, "unit": "kiwis"},
+        {"id": "i7", "name": "Fresh blueberries", "amount": 80, "unit": "g"},
+        {"id": "i8", "name": "Honey or agave", "amount": 1, "unit": "tbsp"},
+        {"id": "i9", "name": "Hemp seeds", "amount": 1, "unit": "tbsp"},
+        {"id": "i10", "name": "Coconut flakes", "amount": 2, "unit": "tbsp"}
+      ],
+      "steps": [
+        {"step_number": 1, "title": "Blend the base", "description": "Break frozen acai packets, blend with frozen banana and JUST enough coconut milk to get the blender moving. The base should be as thick as soft-serve ice cream — thick enough that a spoon stands upright.", "timer_seconds": null, "tip": "Less liquid = thicker base = better texture. Add liquid teaspoon by teaspoon."},
+        {"step_number": 2, "title": "Pour and top artistically", "description": "Pour thick base into a bowl. Top with organized rows or sections: granola first, then fruit arranged by color (dark blueberries, bright mango, green kiwi). Drizzle honey in a zigzag. Finish with hemp seeds and coconut flakes.", "timer_seconds": null, "tip": "Eat immediately — the base softens quickly."}
+      ],
+      "created_at": "2024-01-25T08:00:00Z"
+    },
+    {
+      "id": "r009",
+      "title": "Beef Wellington",
+      "category": "British",
+      "cuisine": "British",
+      "tags": ["luxury", "special-occasion", "beef", "pastry"],
+      "difficulty": "advanced",
+      "prep_time_min": 90,
+      "cook_time_min": 30,
+      "servings": 6,
+      "calories_per_serving": 780,
+      "rating": 4.9,
+      "rating_count": 543,
+      "is_featured": true,
+      "is_trending": false,
+      "description": "Gordon Ramsay's showstopper — tender beef tenderloin coated in mushroom duxelles and Parma ham, wrapped in golden puff pastry. The ultimate dinner party centerpiece.",
+      "image_url": "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=800",
+      "author": "Chef James Henderson",
+      "nutrition": {
+        "calories": 780,
+        "protein_g": 52,
+        "carbs_g": 42,
+        "fat_g": 44
+      },
+      "ingredients": [
+        {"id": "i1", "name": "Beef tenderloin (center cut)", "amount": 1, "unit": "kg"},
+        {"id": "i2", "name": "Puff pastry", "amount": 500, "unit": "g"},
+        {"id": "i3", "name": "Chestnut mushrooms", "amount": 500, "unit": "g"},
+        {"id": "i4", "name": "Parma ham slices", "amount": 12, "unit": "slices"},
+        {"id": "i5", "name": "Dijon mustard", "amount": 3, "unit": "tbsp"},
+        {"id": "i6", "name": "Shallots", "amount": 3, "unit": "large"},
+        {"id": "i7", "name": "Garlic cloves", "amount": 4, "unit": "cloves"},
+        {"id": "i8", "name": "Fresh thyme", "amount": 4, "unit": "sprigs"},
+        {"id": "i9", "name": "Dry white wine", "amount": 100, "unit": "ml"},
+        {"id": "i10", "name": "Eggs", "amount": 2, "unit": "eggs", "notes": "For egg wash"}
+      ],
+      "steps": [
+        {"step_number": 1, "title": "Season and sear the beef", "description": "Season beef aggressively with salt and pepper. Sear in VERY hot oiled pan on all sides including ends — 2 min per side. You want a deep mahogany crust. Brush immediately with Dijon mustard. Refrigerate 30 minutes.", "timer_seconds": 1800},
+        {"step_number": 2, "title": "Make mushroom duxelles", "description": "Pulse mushrooms, shallots, garlic in food processor. Cook in dry pan over high heat, stirring constantly, until all moisture evaporates completely — 15-20 minutes. It should look like a dry paste. Season well. Cool completely.", "timer_seconds": 1200, "tip": "Wet duxelles makes soggy pastry. Must be completely dry."},
+        {"step_number": 3, "title": "Wrap in Parma ham", "description": "Lay a large sheet of plastic wrap. Arrange Parma ham in overlapping rows. Spread duxelles over ham in thin, even layer. Place cold beef at bottom edge. Roll tightly using plastic wrap, twisting ends to form a tight log. Refrigerate 30 minutes.", "timer_seconds": 1800},
+        {"step_number": 4, "title": "Wrap in puff pastry", "description": "Roll pastry to rectangle. Unwrap beef roll, place at pastry edge. Roll tightly, seam-side down. Trim excess pastry. Score top decoratively with back of knife. Egg wash all over. Refrigerate 15 minutes before baking.", "timer_seconds": 900},
+        {"step_number": 5, "title": "Bake to perfection", "description": "Bake 220°C (425°F) for 25-30 minutes until pastry is golden brown. Internal temperature for medium-rare: 52°C (125°F). REST 10 minutes before slicing — crucial. Slice into medallions at the table.", "timer_seconds": 1800}
+      ],
+      "created_at": "2024-03-15T10:00:00Z"
+    },
+    {
+      "id": "r010",
+      "title": "Pad Thai Gai (Chicken)",
+      "category": "Thai",
+      "cuisine": "Thai",
+      "tags": ["noodles", "quick", "weeknight", "street-food"],
+      "difficulty": "intermediate",
+      "prep_time_min": 20,
+      "cook_time_min": 15,
+      "servings": 2,
+      "calories_per_serving": 620,
+      "rating": 4.7,
+      "rating_count": 2341,
+      "is_featured": false,
+      "is_trending": true,
+      "description": "Authentic Bangkok-style pad thai with tamarind-forward sauce, chewy rice noodles, egg scramble, bean sprouts, and crushed peanuts. Street food perfection at home.",
+      "image_url": "https://images.unsplash.com/photo-1559314809-0d155014e29e?w=800",
+      "author": "Chef Orathai Wongsawan",
+      "nutrition": {
+        "calories": 620,
+        "protein_g": 38,
+        "carbs_g": 78,
+        "fat_g": 18
+      },
+      "ingredients": [
+        {"id": "i1", "name": "Dried rice noodles (3mm)", "amount": 200, "unit": "g"},
+        {"id": "i2", "name": "Chicken breast", "amount": 300, "unit": "g", "notes": "Thinly sliced"},
+        {"id": "i3", "name": "Tamarind paste", "amount": 60, "unit": "g"},
+        {"id": "i4", "name": "Fish sauce", "amount": 3, "unit": "tbsp"},
+        {"id": "i5", "name": "Palm sugar", "amount": 3, "unit": "tbsp"},
+        {"id": "i6", "name": "Eggs", "amount": 3, "unit": "eggs"},
+        {"id": "i7", "name": "Bean sprouts", "amount": 150, "unit": "g"},
+        {"id": "i8", "name": "Garlic chives or green onions", "amount": 2, "unit": "bunches"},
+        {"id": "i9", "name": "Dried shrimp", "amount": 2, "unit": "tbsp"},
+        {"id": "i10", "name": "Firm tofu", "amount": 100, "unit": "g"},
+        {"id": "i11", "name": "Crushed peanuts", "amount": 40, "unit": "g"},
+        {"id": "i12", "name": "Vegetable oil", "amount": 3, "unit": "tbsp"},
+        {"id": "i13", "name": "Lime", "amount": 2, "unit": "limes"}
+      ],
+      "steps": [
+        {"step_number": 1, "title": "Soak noodles", "description": "Soak rice noodles in ROOM TEMPERATURE water for 30-40 minutes until pliable but still slightly firm. Do not use hot water — they'll turn mushy in the wok.", "timer_seconds": 2400},
+        {"step_number": 2, "title": "Make pad thai sauce", "description": "Dissolve tamarind paste in 60ml hot water, strain. Combine with fish sauce and palm sugar. Taste — it should be sour-forward, then salty, then sweet. Adjust ratios to your preference.", "timer_seconds": null},
+        {"step_number": 3, "title": "Wok hei technique", "description": "Heat wok until smoking. Add oil. Cook chicken on high heat, 2 minutes. Push to side, add tofu and dried shrimp, fry 1 minute. Add drained noodles, toss vigorously. Add sauce, toss — work fast.", "timer_seconds": 300},
+        {"step_number": 4, "title": "Scramble the eggs in the wok", "description": "Push noodles to side. Add eggs in clear space, scramble briefly, then fold into noodles before fully set. This creates the characteristic texture.", "timer_seconds": null},
+        {"step_number": 5, "title": "Finish and plate", "description": "Add bean sprouts and garlic chives, toss 30 seconds (keep some crunch). Plate immediately. Serve with crushed peanuts, lime wedge, dried chili flakes, and extra fish sauce for self-seasoning.", "timer_seconds": null}
+      ],
+      "created_at": "2024-01-30T13:00:00Z"
+    }
+  ],
+  "categories": [
+    {"id": "cat001", "name": "Italian", "icon": "🍝", "color": "#E8401C", "recipe_count": 48, "image_url": "https://images.unsplash.com/photo-1555949258-eb67b1ef0ceb?w=400"},
+    {"id": "cat002", "name": "Japanese", "icon": "🍜", "color": "#FF6B6B", "recipe_count": 62, "image_url": "https://images.unsplash.com/photo-1569050467447-ce54b3bbc37d?w=400"},
+    {"id": "cat003", "name": "Mediterranean", "icon": "🫒", "color": "#4ECDC4", "recipe_count": 39, "image_url": "https://images.unsplash.com/photo-1544025162-d76538a2a5f5?w=400"},
+    {"id": "cat004", "name": "Thai", "icon": "🌶️", "color": "#FFE66D", "recipe_count": 31, "image_url": "https://images.unsplash.com/photo-1455619452474-d2be8b1e70cd?w=400"},
+    {"id": "cat005", "name": "French", "icon": "🥐", "color": "#A8DADC", "recipe_count": 55, "image_url": "https://images.unsplash.com/photo-1555507036-ab1f4038808a?w=400"},
+    {"id": "cat006", "name": "Korean", "icon": "🍱", "color": "#C9184A", "recipe_count": 28, "image_url": "https://images.unsplash.com/photo-1553163147-622ab57be1c7?w=400"},
+    {"id": "cat007", "name": "Baking", "icon": "🥖", "color": "#F4A261", "recipe_count": 44, "image_url": "https://images.unsplash.com/photo-1555507036-ab1f4038808a?w=400"},
+    {"id": "cat008", "name": "Breakfast", "icon": "🍳", "color": "#52B788", "recipe_count": 36, "image_url": "https://images.unsplash.com/photo-1590301157890-4810ed352733?w=400"},
+    {"id": "cat009", "name": "Desserts", "icon": "🍰", "color": "#E9C46A", "recipe_count": 67, "image_url": "https://images.unsplash.com/photo-1571115177098-24ec42ed204d?w=400"},
+    {"id": "cat010", "name": "British", "icon": "🫖", "color": "#264653", "recipe_count": 22, "image_url": "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=400"},
+    {"id": "cat011", "name": "Indian", "icon": "🍛", "color": "#E76F51", "recipe_count": 58, "image_url": "https://images.unsplash.com/photo-1585937421612-70a008356fbe?w=400"},
+    {"id": "cat012", "name": "Mexican", "icon": "🌮", "color": "#F4D03F", "recipe_count": 41, "image_url": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?w=400"}
+  ],
+  "meal_plans": [
+    {
+      "id": "mp001",
+      "name": "Mediterranean Week",
+      "description": "7-day heart-healthy Mediterranean diet meal plan",
+      "total_calories": 14200,
+      "days": [
+        {"day": "Monday", "breakfast": "r008", "lunch": "r003", "dinner": "r001"},
+        {"day": "Tuesday", "breakfast": "r008", "lunch": "r006", "dinner": "r004"},
+        {"day": "Wednesday", "breakfast": "r007", "lunch": "r003", "dinner": "r002"},
+        {"day": "Thursday", "breakfast": "r008", "lunch": "r010", "dinner": "r009"},
+        {"day": "Friday", "breakfast": "r007", "lunch": "r004", "dinner": "r005"},
+        {"day": "Saturday", "breakfast": "r008", "lunch": "r006", "dinner": "r001"},
+        {"day": "Sunday", "breakfast": "r007", "lunch": "r003", "dinner": "r009"}
+      ]
+    }
+  ],
+  "tips": [
+    {
+      "id": "t001",
+      "title": "The Maillard Reaction",
+      "content": "Browning creates hundreds of new flavor compounds. Always dry your protein before searing — moisture is the enemy of browning.",
+      "category": "technique"
+    },
+    {
+      "id": "t002",
+      "title": "Salt Like a Chef",
+      "content": "Season at every layer — not just the end. Salt draws out moisture and enhances flavor throughout cooking.",
+      "category": "seasoning"
+    },
+    {
+      "id": "t003",
+      "title": "Mise en Place",
+      "content": "Everything in its place before you start. Professional kitchens prep everything before firing a single burner. Stress-free cooking starts with mise en place.",
+      "category": "organization"
+    }
+  ]
+}
